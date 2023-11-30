@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: CPtree
+Version: 1.0.0
+Summary: ACSII Filetree Generator
+Author: Justin Wright
+Requires-Dist: typer
